@@ -83,6 +83,7 @@
                  markers
              );
 
+
              if (place.geometry.viewport) {
                  // Only geocodes have viewport.
                  bounds.union(place.geometry.viewport);
