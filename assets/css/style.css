@@ -15,6 +15,10 @@ body{
     font-size: 24px;
 }
 
+.navbar-brand {
+    font-size: 2rem;
+}
+
 .jumbotron {
 background-color: transparent;
 position: relative;
