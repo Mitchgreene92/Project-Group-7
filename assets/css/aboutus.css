@@ -1,5 +1,5 @@
 body { 
-    background: url(images/red.jpeg) no-repeat center center fixed; 
+    background: url("../images/red.jpeg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -10,6 +10,7 @@ body {
  .navbar{
     padding: 30px;
     bottom: 10px;
+    font-size: 24px;
 }
 .card{
     text-align: center;
@@ -17,7 +18,7 @@ body {
     position: relative;
     top: 60px;
     color: black;
-    font-size: 50;
+    font-size: 34px;
 }
 
 .btn{
